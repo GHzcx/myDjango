@@ -35,7 +35,7 @@ const ll inf_ll=(ll)1e18;
 const ll maxn=100005LL;
 const ll mod=1000000007LL;
 const int N = 1000+5;  
-const int maxn = 10000000  
+const int maxn = 10000000;
 bool vis[maxn+1000000];  
 int prime[maxn],n; 
 void getprime()  
