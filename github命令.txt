@@ -1,2 +1,0 @@
-git clone https://github.com/newGHz/myDjango.git //将github仓库内容克隆到本地
-git status //查询git状态
