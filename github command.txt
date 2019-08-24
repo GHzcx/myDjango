@@ -1,2 +1,0 @@
-git clone https://github.com/newGHz/myDjango.git //Clone github repository contents to local
-git status //Query git status
